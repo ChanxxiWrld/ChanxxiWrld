@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=WellCome%20to%20Changgi's%20GitHub%20%F0%9F%A4%97)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=WellCome%20to%10Changgi's%10GitHub%10%F0%9F%A4%97)
 <!--
 **ChanxxiWrld/ChanxxiWrld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
